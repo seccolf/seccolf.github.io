@@ -1,0 +1,72 @@
+---
+layout: page
+title: Lucas Secco
+permalink: /
+---
+
+<!-- Slider Start -->
+<section id="slider">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-2">
+        <div class="block">
+          <!-- <h1 class="animated fadeInUp">A DIGITAL MARKETING &#38; <br> DESIGN AGENCY</h1> -->
+	  <h1 class="animated fadeInUp"> Hello, I'm Lucas F. Secco</h1> 
+          <p class="animated fadeInUp">I'm interested in understanding the Universe through the lens of science. </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Wrapper Start -->
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="block">
+	<div class="col-md-7 col-sm-12">
+        <!--<div class="section-title">-->
+          <h2>About me</h2>
+          <p> I'm currently a PhD Candidate at the University of Pennsylvania, expecting to graduate by Summer 2020. I hold a Master's degree in Physics from Universidade de São Paulo (2015) and a Bachelor's degree in Physics from Universidade Federal do Rio Grande do Sul (2013). You can check out my complete CV here: LINK.</p>
+        <p> I'm originally from Brazil and care about how science (and scientists) can contribute to social progress by fueling a culture of humanism, skepticism and intellectual honesty. In practice, I try to achieve that by blogging (link to Medium) and tweeting (link to twittes) about science and politics. </p>
+	</div><!-- .col-md-7 close -->
+      </div>
+      <div class="col-md-5 col-sm-12">
+	<div class="block">
+          <img src="new_img/headshot.png" alt="Img">
+	</div>
+      </div><!-- .col-md-5 close -->
+    </div>
+</section>
+
+<section id="feature">
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-6">
+      <h2>About my work</h2>
+      <p>text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 text 3 </p>
+      <p>text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 text 4 </p>
+      <p>text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 text 5 </p>
+      <a href="#" class="btn btn-view-works">View publications</a>
+    </div>
+  </div>
+</div>
+</section>
+
+
+<!-- Call to action Start -->
+<section id="call-to-action">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>Contact me!</h2>
+          <p>I'm happy to hear from you if you're interested in my work </p>
+          <a class="btn btn-default btn-call-to-action" href="#" >Get in touch with me</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
