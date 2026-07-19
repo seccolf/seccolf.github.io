@@ -17,7 +17,7 @@ keep_files:
 title: "Lucas Secco"
 subtitle: "Astrophysics"
 name: &name "Lucas Secco"
-url: "http://seccolf.github.io" # the base hostname & protocol for your site
+url: "https://lfsecco.com" # the base hostname & protocol for your site
 repository: "seccolf/seccolf.github.io"
 
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
